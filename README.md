@@ -69,6 +69,3 @@ Meet the developers behind BookWorm:
 - **Daniel Joshua P. Saberon**
   
   ![image](https://github.com/frenchMontajes/2BSCS-1_Herrera_Montajes_Saberon_Yumul/assets/130640700/6c7c8ef5-492c-46c5-85f6-bf735629b597)
-
-
-## final test pr template
